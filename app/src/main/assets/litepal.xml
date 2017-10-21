@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="E-Learn3" />
+    <version value="5" />
+    <list>
+        <mapping class="com.example.e_learn.School" />
+    </list>
+</litepal>
